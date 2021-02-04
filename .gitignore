@@ -1,0 +1,10 @@
+build
+dist
+fuse_python.egg-info
+__pycache__
+*.pyc
+*.so
+wheelhouse
+
+# our files
+./myfuse/*.log
